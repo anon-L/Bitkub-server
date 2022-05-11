@@ -44,4 +44,4 @@ app.post('/api/market/place-bid/test',express.json(),async(req:Request,res:Respo
 
     
 })
-app.listen(8080, ()=> console.log("server up at 6969"))
+app.listen(8080, ()=> console.log("server up"))
